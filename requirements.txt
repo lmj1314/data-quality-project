@@ -1,5 +1,6 @@
 pytest
 pandas
 openpyxl
+xlrd
 requests
 allure-pytest
